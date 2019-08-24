@@ -1,23 +1,24 @@
 # http://www.in2013dollars.com/us/inflation/2000?amount=1 2000-2019
-ANNUAL_CURRENCY_INFLATION = 0.0213
+ANNUAL_CURRENCY_INFLATION = 0.021
 # https://www.neighborhoodscout.com/ca/san-francisco/real-estate 2000-2019
-ANNUAL_HOME_APPRECIATION = 0.0501
+ANNUAL_HOME_APPRECIATION = 0.05
 ANNUAL_HOME_MAINTENANCE_INITIAL = 15000
 ANNUAL_NON_HOME_ROI = 0.075
 # https://smartasset.com/taxes/california-property-tax-calculator
-ANNUAL_PROPERTY_TAX_RATE = .00683
+ANNUAL_PROPERTY_TAX_RATE = .007
 # https://www.deptofnumbers.com/rent/california/san-francisco/ 2005-2017
 ANNUAL_RENT_APPRECIATION = 0.023
-HOME_DOWN_PAYMENT = 304660
-HOME_PRICE = 1520330
+HOME_DOWN_PAYMENT = 300000
+HOME_PRICE = 1500000
 # https://www.investopedia.com/articles/mortgages-real-estate/11/calculate-the-mortgage-interest-math.asp
 MAX_MORTAGE_DEDUCTION_LOAN_AMOUNT = 750000
 MONTHLY_HOA = 500
 MONTHLY_HOME_INSURANCE = 698
 MONTHLY_MORTGAGE = 5764
-MONTHLY_RENT = 5450
-MORTGAGE_INTEREST_RATE = .04051
+MONTHLY_RENT = 4735
+MORTGAGE_INTEREST_RATE = .0405
 MORTGAGE_YEARS = 30
+RENTERS_INSURANCE_PERCENTAGE = 0.0132
 # https://www.nerdwallet.com/blog/taxes/standard-deduction/ - assumes married
 STANDARD_FEDERAL_DEDUCTION = 24400
 # https://www.investopedia.com/terms/m/marginaltaxrate.asp - assumes income $200k-$500k
